@@ -1,0 +1,22 @@
+ancho de la ventana (pixeles)
+altura de la ventana (pixeles)
+cuantas veces por segundo se refresca la pantalla
+color en primer plano : rojo (0 - 255)
+color en primer plano : verde (0 - 255)
+color en primer plano : azul (0 - 255)
+color en segundo plano : rojo (0 - 255)
+color en segundo plano : verde (0 - 255)
+color en segundo plano : azul (0 - 255)
+trozo de linea que sobra por los lados al tachar (pixeles)
+ancho de las lineas (pixeles)
+altura de cada piso (pixeles)
+numero de palitos en la fila mas grande
+1 si la piramide acaba en pico, 0 en caso contrario
+1 para tener la piramide invertida, 0 en caso contrario
+numero de jugadores (incluida la AI)
+el numero del jugador que tiene el primer turno
+numero de jugadores que maneja la AI
+el primer turno de la AI (todos los turnos de la AI son seguidos)
+1 para usar la AI perfecta
+
+el archivo debe acabar con una linea vacia
